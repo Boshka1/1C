@@ -215,3 +215,7 @@
     КонецЕсли;
     Возврат Справочники.РабочиеЦентры.ПустаяСсылка();
 КонецФункции
+
+
+
+https://drive.google.com/file/d/12qDStcZFSqe1eGyLeqyZIdGlZNIipTa6/view?usp=sharing
